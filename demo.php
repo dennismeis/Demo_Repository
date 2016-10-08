@@ -20,7 +20,6 @@
     </header>
 
     <main id="Ninasneuer inhaltsbereich">
-
     </main>
     <footer id="Fußbereich">
 
