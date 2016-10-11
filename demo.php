@@ -20,6 +20,9 @@
     </header>
 
     <main id="Dennis neuer inhaltsbereich">
+		<div id="Newsblock">
+			<p>Alter Paragraph im Newsblock.</p>
+		</div>
     </main>
     <footer id="Fußbereich">
 
