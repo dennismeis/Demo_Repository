@@ -19,7 +19,7 @@
         <h1>Unsere Demo Seite</h1>
     </header>
 
-    <main id="Ninasneuer inhaltsbereich">
+    <main id="Dennis neuer inhaltsbereich">
     </main>
     <footer id="Fußbereich">
 
